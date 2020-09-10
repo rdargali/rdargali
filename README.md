@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Rawand Dargali
+### Hi! I'm Rawand
 - Web development and PERN stack enthusiast.
 - Formerly a financial analyst and advisor.
 - Always trying to learn new things.
