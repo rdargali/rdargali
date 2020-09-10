@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rdargali&show_icons=true">
 
-### Hi! I'm Rawand
+### Hello World!
 - Web development and PERN stack enthusiast.
 - Formerly a financial analyst and advisor.
 - Always trying to learn new things.
