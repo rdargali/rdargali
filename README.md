@@ -4,7 +4,7 @@
 - Web development and PERN stack enthusiast.
 - Formerly a financial analyst and advisor.
 - Always trying to learn new things.
-- Currently looking opportunities.
+- Currently looking for opportunities.
 
 <a href="https://rawand.me">
   <img align="left" alt="Rawand's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
